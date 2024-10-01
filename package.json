@@ -1,0 +1,30 @@
+{
+  "name": "namastereact2.0",
+  "version": "1.0.0",
+  "description": "hhh",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobcode4/namastereact2.0.git"
+  },
+  "keywords": [
+    "hh"
+  ],
+  "author": "sar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobcode4/namastereact2.0/issues"
+  },
+  "homepage": "https://github.com/bobcode4/namastereact2.0#readme",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  },
+  "main": "tailwind.config.js"
+}
